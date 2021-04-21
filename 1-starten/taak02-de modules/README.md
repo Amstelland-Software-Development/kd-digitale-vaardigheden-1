@@ -4,7 +4,7 @@
 
 1. Het examen bestaat uit vragen over alle hoofdstukken uit de modules Kerntaak 1 t/m 3.
 2. Sommige dingen weet je al en sommige niet.
-3. In deze module van Digitale Vaardigheden gaan we aan de slag met Kerntaak 1.
+3. In deze module van Digitale Vaardigheden gaan we aan de slag met Kerntaak 1. 
 
 ## Opdrachten
 
